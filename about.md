@@ -1,15 +1,14 @@
 ---
-layout: page
-title: About
+layout: default
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div style="text-align: right"><a href="/static/cv/cv.pdf">Download CV</a></div>
+<br>
+What’s up, I’m Manish. I’m a software engineer living in India. I am a fan of technology, entrepreneurship and innovation. I’m highly passionate about programming.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Contributing to open source projects related to libGDX and other open source framework.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<hr/>
+Email : joharimani@gmail.com

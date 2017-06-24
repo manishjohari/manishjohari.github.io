@@ -46,15 +46,9 @@ share:
   twitter_username: manishjohari
   fb_appid: 1749788565247320
 
-# urls:
-#     - text: Games
-#       url: /games-oops/
-#     - text: Apps & Tools
-#       url: /apps-tools/
-#     - text: Privacy Policy
-#       url: /privacy-policy/
-#     - text: About Me
-#       url: /about/
+urls:
+    - text: About Me
+      url: /about/
 
 url: "https://manishjohari.github.io"
 baseurl: ""

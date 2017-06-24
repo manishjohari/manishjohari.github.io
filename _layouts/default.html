@@ -140,17 +140,12 @@ layout: compress
         <!-- end /.fixed-condition -->
       </div>
       <div class="col-sm-8 col-offset-1 main-layout">
-        <h1>{{ site.title }}</h1>
+        <hr/>
+        <h1>{{ page.title }}</h1>
         <hr />
-        <p>
-          <div align="right">
-            <img title="profile for Manish Johari at Stack Overflow, Q&amp;A for professional and enthusiast programmers" src="https://stackoverflow.com/users/flair/1659407.png?theme=clean" alt="profile for Manish Johari at Stack Overflow, Q&amp;A for professional and enthusiast programmers" height="58" width="208"><br>
-          </div>
-        </p><br>
-        The word Neophiliac that describe me.
-        <p>
-          I’ve been developing Web and RESTful API's using Ruby on Rails framework, professionally since Jan, 2012. For me development is more fun and I enjoy it.
-        <p/>
+
+        {{ content }}
+
         <footer>
           &copy; {{ site.author }}
         </footer>
